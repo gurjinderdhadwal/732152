@@ -10,6 +10,7 @@ namespace _732152
     {
         static void Main(string[] args)
         {
+
         }
     }
 }
